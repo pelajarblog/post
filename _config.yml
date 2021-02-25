@@ -4,7 +4,7 @@ title: "pelajar blogger"
 description: "berbagi informasi menarik seputar dunia maya yang sangat menarik"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/postkomik.jpg'
-baseurl: '/blog'
+baseurl: '/post'
 google_analytics: ''
 disqus: ''
 
