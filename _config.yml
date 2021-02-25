@@ -1,12 +1,12 @@
 # Site
-name: "pejuang rupiah"
-title: "pejuang rupiah"
-description: "pejuang rupiah berita blogger tentang kumpulan berbagai informasi terbaru dan berita onlien berbagai sumber."
+name: "pelajar blogger"
+title: "pelajar blogger"
+description: "berbagi informasi menarik seputar dunia maya yang sangat menarik"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/postkomik.jpg'
 baseurl: '/blog'
-google_analytics: 'UA-46278016-1'
-disqus: 'postkomik-github-1'
+google_analytics: ''
+disqus: ''
 
 include: ["_pages"]
 permalink: /:title/
@@ -30,15 +30,15 @@ authors:
     web: https://postkomik.github.io
     twitter: https://twitter.com/OnlienPejuang
     description: "Belajar menjadi baik dan pantang menyerah "
-  postkomik:
-    name: Postkomik
-    display_name: Postkomik
+  pelajar:
+    name: Pelajar
+    display_name: Pelajar
     avatar: 'assets/images/postkomik.jpg'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: Ahmadalwy@gmail.com
-    web: https://postkomik.github.io
-    twitter: https://twitter.com/OnlienPejuang
-    description: "Belajar menjadi baik dan pantang menyerah hobi menganalisa sebuah permasalahan dan memahami perasaan wanita ahay wkwkwwk"
+    email: kmkaisan1@gmail.com
+    web: https://postkomik.blogspot.com
+    twitter: https://twitter.com/
+    description: "sangat suka dalam hal yang berhubungan penelitian dan mencoba hal hal baru yang bermanfaat"
     
 
 # Plugins
