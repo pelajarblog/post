@@ -9,8 +9,6 @@ beforetoc: Anda bisa mendapatkan dari sini ke sana. Bahkan, anda telah memulai
   suatu perjalanan. Anda dapat menjalani hidup yang anda bayangkan. Jadi,
   mengisi visi dengan suara dan warna, dengan tekstur dan kaya detail.
 date: 2021-02-26T21:02:57.704Z
-featured: true
-hidden: true
 ---
 Anda bisa mendapatkan dari sini ke sana. Bahkan, anda telah memulai suatu perjalanan. Anda dapat menjalani hidup yang anda bayangkan. Jadi, mengisi visi dengan suara dan warna, dengan tekstur dan kaya detail.
 
