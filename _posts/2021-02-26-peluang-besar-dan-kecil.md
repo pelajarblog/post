@@ -10,6 +10,8 @@ beforetoc: Anda tidak akan dapat menyelesaikan semua masalah anda hari ini,
   tidak akan mendapatkan semua jalan ke tujuan anda, tetapi anda pasti dapat
   membuat beberapa kemajuan.
 date: 2021-02-26T21:09:19.175Z
+featured: true
+hidden: true
 ---
 Anda tidak akan dapat menyelesaikan semua masalah anda hari ini, tetapi anda bisa mengurus satu atau dua masalah dari mereka. Anda mungkin tidak akan mendapatkan semua jalan ke tujuan anda, tetapi anda pasti dapat membuat beberapa kemajuan.
 
