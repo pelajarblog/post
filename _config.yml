@@ -5,7 +5,7 @@ description: "berbagi informasi menarik seputar dunia maya yang sangat menarik"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/postkomik.jpg'
 baseurl: '/post'
-google_analytics: ''
+google_analytics: 'G-MDD46F1Z89'
 disqus: ''
 
 include: ["_pages"]
