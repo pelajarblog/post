@@ -5,6 +5,8 @@ author: pelajar
 categories: motivasi
 tags: motivasi
 image: https://cdn.pixabay.com/photo/2021/01/27/22/25/rabbit-5956422_960_720.jpg
+featured: true
+hidden: true
 beforetoc: Anda bisa mendapatkan dari sini ke sana. Bahkan, anda telah memulai
   suatu perjalanan. Anda dapat menjalani hidup yang anda bayangkan. Jadi,
   mengisi visi dengan suara dan warna, dengan tekstur dan kaya detail.
