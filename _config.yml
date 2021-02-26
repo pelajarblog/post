@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/postkomik.jpg'
 baseurl: '/post'
 google_analytics: 'UA-190682519-1'
-disqus: ''
+disqus: 'pelajarblog'
 
 include: ["_pages"]
 permalink: /:title/
