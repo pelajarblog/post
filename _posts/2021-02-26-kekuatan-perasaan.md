@@ -9,6 +9,8 @@ beforetoc: Tidak ada alasan, kita tidak dapat merasakan sama sekali. Bahkan,
   kita dapat memilih untuk merasakan dengan cara apapun. Kita ingin setiap saat
   dan dalam situasi apapun dapat merasakan
 date: 2021-02-26T20:50:00.102Z
+featured: true
+hidden: true
 ---
 Tidak ada alasan, kita tidak dapat merasakan sama sekali. Bahkan, kita dapat memilih untuk merasakan dengan cara apapun. Kita ingin setiap saat dan dalam situasi apapun dapat merasakan.
 
