@@ -20,3 +20,5 @@ Ada banyak nilai yang dapat dibuat pada hari ini. Ada masalah yang dapat dipecah
 Kesempatan yang tak berguna, kecuali jika mereka bertindak. Memilih untuk mengambil tindakan yang akan menghidupkan peluang terbaik menjadi nyata dan abadi dalam prestasi.
 
 Kesempatan ini ada dimana-mana, sudah, sekarang. Langkah maju dan meletakkannya untuk bekerja.
+
+Terimakasih sudah membaca kata kata motivasi tentang ksempatan ada dimana mana
