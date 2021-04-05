@@ -4,7 +4,7 @@ title: Daftar kata kunci cpc besar
 author: pelajar
 categories: keyword
 tags: keyword
-image: /assets/images/8.jpg
+image: /assets/images/logo.png
 beforetoc: "ini adalah daftar kata kunci potensial untuk cpc "
 date: 2021-04-05T05:32:21.394Z
 ---
