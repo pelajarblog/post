@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Daftar kata kunci cpc besar
-author: postkomik
+author: pelajar
 categories: keyword
 tags: keyword
 image: /assets/images/8.jpg
